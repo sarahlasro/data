@@ -1,0 +1,5 @@
+ID,Link,Current Value,Threshold,Status
+001,Jatinegara <> Kokas,70,80,DOWN
+002,Kokas <> Jatinegara,81,80,UP
+003,Kokas <> Wisma Mulia,90,80,UP
+004,Wisma Mulia <> Kokas,79,80,DOWN
